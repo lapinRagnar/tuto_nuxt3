@@ -61,3 +61,13 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+# sites du modules nuxt
+https://nuxt.com/modules
+
+# site du tuto
+https://www.youtube.com/watch?v=dvanqBUoxhc&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=7
+https://github.com/iamshaunjp/nuxt-3-tutorial
+
+

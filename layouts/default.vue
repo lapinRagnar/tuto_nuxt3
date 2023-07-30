@@ -1,8 +1,8 @@
 <template>
   <div>
-    <header>
-      <nav>
-        <nuxt-link to="/">Huxt dojo</nuxt-link>
+    <header class="bg-red-300">
+      <nav class="container mx-auto p-4 flex justify-between">
+        <nuxt-link to="/" class="font-bold">Huxt dojo</nuxt-link>
         <ul>
           <li><nuxt-link to="/">Home</nuxt-link></li>
           <li><nuxt-link to="/products">Products</nuxt-link></li>
