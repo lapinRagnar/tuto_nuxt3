@@ -82,3 +82,7 @@ endpoints : https://api.currencyapi.com/v3/currencies
 git@github.com:lapinRagnar/tuto_nuxt3.git
 https://github.com/lapinRagnar/tuto_nuxt3
 
+# demo sur netlify
+https://splendorous-daifuku-f51fa8.netlify.app
+
+
