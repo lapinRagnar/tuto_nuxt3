@@ -71,6 +71,14 @@ https://www.youtube.com/watch?v=dvanqBUoxhc&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesC
 https://github.com/iamshaunjp/nuxt-3-tutorial
 
 
-# fetch data for products
+# fetch data for products - api
 https://fakestoreapi.com/
+https://currencyapi.com/
+
+endpoints : https://api.currencyapi.com/v3/currencies
+
+
+# mon code sur github
+git@github.com:lapinRagnar/tuto_nuxt3.git
+https://github.com/lapinRagnar/tuto_nuxt3
 
