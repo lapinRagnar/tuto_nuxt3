@@ -71,3 +71,6 @@ https://www.youtube.com/watch?v=dvanqBUoxhc&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesC
 https://github.com/iamshaunjp/nuxt-3-tutorial
 
 
+# fetch data for products
+https://fakestoreapi.com/
+
